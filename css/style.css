@@ -1,0 +1,22 @@
+.cabecera{
+    background-color: black;
+    width: 100%;
+}
+.contenido{
+    background-color: red;
+
+}
+.cursiva{
+    color: rgb(146, 64, 10);
+}
+.Formula{
+    color: red;
+}
+.contenido2{
+    background-color: rgb(199, 199, 230);
+}
+.pie{
+    background-color: red;
+    width: 100%;
+    height: 80px;
+}
